@@ -1,0 +1,1 @@
+Abra o terminal e digite "npm start". Depois abra um novo terminal e digite "npm run start-cli"
